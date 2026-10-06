@@ -1,0 +1,11 @@
+{
+  "name":"معمل ايسكريم الاسطورة",
+  "short_name":"ايسكريم الاسطورة",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#f3f7f8",
+  "theme_color":"#0b7285",
+  "dir":"rtl",
+  "lang":"ar",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
